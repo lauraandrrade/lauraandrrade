@@ -13,7 +13,7 @@
          style="height: 27px;" /></a>
 
   <!-- Gmail Badge -->
-  <a href="mailto:devandrrade@gmail.com" style="text-decoration: none;">
+  <a href="mailto:lauraandradedevops@gmail.com" style="text-decoration: none;">
     <img alt="Gmail" title="Send me an email" 
          src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=400d27" 
          style="height: 27px;" /></a>
