@@ -92,8 +92,8 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
   <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- GitHub Stats Cards -->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=radical&rank_icon=github&card_width=100" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=radical&layout=compact&card_width=100">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lauraandrrade&show_icons=true&locale=en&theme=radical&rank_icon=github&card_width=100" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraandrrade&theme=radical&layout=compact&card_width=100">
 </div>
 </details>
 
@@ -103,7 +103,7 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
 
   <div>
 
-[<img align="left" width="150px" alt="AWS Certified Cloud Practitioner Badge" src="https://github.com/andrrade/andrrade/blob/main/badges/aws-certified-cloud-practitioner.png" />](https://www.credly.com/earner/earned/badge/b3f78901-69aa-4e8e-9c65-221d40ac0a1b)
+[<img align="left" width="150px" alt="AWS Certified Cloud Practitioner Badge" src="https://github.com/lauraandrrade/lauraandrrade/blob/main/badges/aws-certified-cloud-practitioner.png" />](https://www.credly.com/earner/earned/badge/b3f78901-69aa-4e8e-9c65-221d40ac0a1b)
 
   <p align="right">
     
