@@ -1,4 +1,4 @@
-# Laura Andrade de Oliveira
+## Laura Andrade de Oliveira
 
 `Junior DevOps Analyst` at [Jussara](https://www.linkedin.com/company/usina-de-laticinios-jussara-s-a-/)
 
