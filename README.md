@@ -37,7 +37,9 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
 </div>
 
 ### Languages
-```🇧🇷 Portuguese - Native``` · ```🇺🇸 English - Advanced```
+
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") `Portuguese - Native` ·
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") `English - Advanced`
 
 <details> 
   <summary><h3>📜 Certifications</h3></summary>
