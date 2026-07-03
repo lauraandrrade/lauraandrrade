@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fc9102&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=400D27&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fc9102&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=400D27&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday" alt="Typing SVG" />
     </picture>
   </a>
@@ -39,12 +39,12 @@ I'm currently working as a DevOps Analyst at Jussara. Driven by a natural curios
   </p>
 </div>
 
-### 🌐 Languages
-
-![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") `Portuguese - Native` ·
-![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") `English - Advanced`
-
 ### 📜 Certifications
 
 <a target="_blank" href="https://www.credly.com/earner/earned/badge/b3f78901-69aa-4e8e-9c65-221d40ac0a1b"><img height="100" width="100" alt="aws-cloud-practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
 
+### 🌐 Languages
+
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") `Portuguese - Native` ·
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") `English - Advanced` ·
+![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") `Spanish - Intermediate`
