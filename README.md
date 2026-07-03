@@ -13,10 +13,9 @@
 </p>
 
 <img align="right" alt="tux-typing-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="90px" />
+<br>
 
 I'm currently working as a DevOps Analyst at Jussara. Driven by a natural curiosity to understand how things work under the hood, I'm passionate about DevOps and actively focusing my studies on AWS, Linux, and Kubernetes.
-
-<br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" style="vertical-align: middle;"/> Stacks 
 
@@ -47,4 +46,4 @@ I'm currently working as a DevOps Analyst at Jussara. Driven by a natural curios
 
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") `Portuguese - Native` ·
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") `English - Advanced` ·
-![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") `Spanish - Intermediate`
+![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") `Spanish - Basic`
