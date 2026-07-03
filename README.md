@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fc9102&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday">
       <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=400D27&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=400D27&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday" alt="Typing SVG" />
     </picture>
@@ -14,8 +14,9 @@
 
 <img align="right" alt="tux-typing-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="90px" />
 
-I'm a curious, dedicated, and hardworking person who is always looking to improve and grow. I have a strong interest in cloud, security, and automation, and I'm constantly expanding my skills in these areas.
-I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221d40ac0a1b/public_url). Always driven by a desire to learn, I believe in consistent effort and strive to be 1% better every day.
+I'm currently working as a DevOps Analyst at Jussara. Driven by a natural curiosity to understand how things work under the hood, I'm passionate about DevOps and actively focusing my studies on AWS, Linux, and Kubernetes.
+
+<br>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" style="vertical-align: middle;"/> Stacks 
 
@@ -33,6 +34,8 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
     <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" />
     <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
     <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   </p>
 </div>
 
@@ -41,24 +44,7 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") `Portuguese - Native` ·
 ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") `English - Advanced`
 
-<details> 
-  <summary><h3>📜 Certifications</h3></summary>
-  <br>
+### 📜 Certifications
 
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://www.credly.com/earner/earned/badge/b3f78901-69aa-4e8e-9c65-221d40ac0a1b">
-          <img src="https://raw.githubusercontent.com/lauraandrrade/lauraandrrade/main/badges/aws-certified-cloud-practitioner.png" width="130" alt="AWS Certified Cloud Practitioner Badge">
-        </a>
-      </td>
-      <td>
-        <strong>Certification:</strong> AWS Certified Cloud Practitioner <br>
-        <strong>Issuing Organization:</strong> Amazon Web Services Training and Certification <br>
-        <strong>Issuing Date:</strong> 07/10/2025 <br>
-        <strong>Expiration Date:</strong> 07/10/2028
-      </td>
-    </tr>
-  </table>
-  
-</details>
+<a target="_blank" href="https://www.credly.com/earner/earned/badge/b3f78901-69aa-4e8e-9c65-221d40ac0a1b"><img height="100" width="100" alt="aws-cloud-practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
+
