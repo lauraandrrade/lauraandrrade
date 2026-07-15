@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fc9102&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fc9102&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=326ce5&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=326ce5&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=400D27&width=500&center=true&vCenter=true&size=17&lines=Knowledge+is+boldness;Better+than+yesterday" alt="Typing SVG" />
     </picture>
   </a>
