@@ -2,6 +2,12 @@
 
 `Junior DevOps Analyst`
 
+<div align="center">
+  <div>
+    <a href="https://www.linkedin.com/in/lauraandrrade/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/124924248/218575757-34fdcb51-ec06-4fc9-94d6-cfe7d764617e.gif" height="40" width="40"/></a>
+  </div>
+</div>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <picture>
