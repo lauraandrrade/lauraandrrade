@@ -29,7 +29,7 @@ I'm currently working as a DevOps Analyst at Jussara. Driven by a natural curios
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,kubernetes,bash,ansible" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,bash,kubernetes,prometheus,ansible,jenkins" />
   </a>
 </div>
 
@@ -38,11 +38,10 @@ I'm currently working as a DevOps Analyst at Jussara. Driven by a natural curios
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0001?style=for-the-badge&logo=ansible&logoColor=white" />
     <img alt="Gitea" src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
     <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-    <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" />
   </p>
 </div>
