@@ -29,7 +29,7 @@ I'm currently working as a DevOps Analyst at Jussara. Driven by a natural curios
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,bash,kubernetes,prometheus,ansible,jenkins" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,kubernetes,prometheus,jenkins,bash" />
   </a>
 </div>
 
